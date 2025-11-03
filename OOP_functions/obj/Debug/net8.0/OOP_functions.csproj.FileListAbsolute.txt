@@ -1,0 +1,15 @@
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.AssemblyInfoInputs.cache
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.AssemblyInfo.cs
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.csproj.CoreCompileInputs.cache
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.sourcelink.json
+/home/anakin/programming/School/OOP_functions/bin/Debug/net8.0/OOP_functions
+/home/anakin/programming/School/OOP_functions/bin/Debug/net8.0/OOP_functions.deps.json
+/home/anakin/programming/School/OOP_functions/bin/Debug/net8.0/OOP_functions.runtimeconfig.json
+/home/anakin/programming/School/OOP_functions/bin/Debug/net8.0/OOP_functions.dll
+/home/anakin/programming/School/OOP_functions/bin/Debug/net8.0/OOP_functions.pdb
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.dll
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/refint/OOP_functions.dll
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.pdb
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/OOP_functions.genruntimeconfig.cache
+/home/anakin/programming/School/OOP_functions/obj/Debug/net8.0/ref/OOP_functions.dll
