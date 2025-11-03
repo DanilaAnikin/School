@@ -6,6 +6,7 @@ Sbírka C# projektů (.NET 8.0) ze školních úkolů.
 
 - **Beast_in_Labyrinth** - Simulace pohybu zvířete v bludišti pomocí pravidla pravé ruky
 - **OOP_functions** - Knihovna matematických funkcí demonstrující OOP principy (dědičnost, rozhraní, polymorfismus)
+- **Problem_stabilniho_manzelstvi** - Implementace Gale-Shapleyho algoritmu pro řešení problému stabilního manželství
 - **Two_Beasts_in_Labyrinth** - Rozšířená verze s více zvířaty v bludišti
 - **usporna_navigace** - Algoritmus nejkratší cesty mezi městy s omezením max. 1 placené silnice
 
