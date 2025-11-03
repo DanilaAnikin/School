@@ -4,6 +4,7 @@ Sbírka C# projektů (.NET 8.0) ze školních úkolů.
 
 ## Projekty
 
+- **Battle_simulator** - RPG simulátor souboje dvou armád s různými typy postav (Wizard, Warrior, Archer)
 - **Beast_in_Labyrinth** - Simulace pohybu zvířete v bludišti pomocí pravidla pravé ruky
 - **Minimax** - Hra Nim s implementací minimax algoritmu a alfa-beta prořezáváním
 - **OOP_functions** - Knihovna matematických funkcí demonstrující OOP principy (dědičnost, rozhraní, polymorfismus)
