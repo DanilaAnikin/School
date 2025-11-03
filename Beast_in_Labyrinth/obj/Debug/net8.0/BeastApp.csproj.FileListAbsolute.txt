@@ -1,0 +1,15 @@
+/home/anakin/programming/School/Beast_in_Labyrinth/bin/Debug/net8.0/BeastApp
+/home/anakin/programming/School/Beast_in_Labyrinth/bin/Debug/net8.0/BeastApp.deps.json
+/home/anakin/programming/School/Beast_in_Labyrinth/bin/Debug/net8.0/BeastApp.runtimeconfig.json
+/home/anakin/programming/School/Beast_in_Labyrinth/bin/Debug/net8.0/BeastApp.dll
+/home/anakin/programming/School/Beast_in_Labyrinth/bin/Debug/net8.0/BeastApp.pdb
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.AssemblyInfoInputs.cache
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.AssemblyInfo.cs
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.csproj.CoreCompileInputs.cache
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.sourcelink.json
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.dll
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/refint/BeastApp.dll
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.pdb
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/BeastApp.genruntimeconfig.cache
+/home/anakin/programming/School/Beast_in_Labyrinth/obj/Debug/net8.0/ref/BeastApp.dll
