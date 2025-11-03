@@ -1,9 +1,10 @@
 # Školní projekty z programování
 
-Sbírka C# projektů (.NET 8.0) ze školních úkolů.
+Sbírka projektů ze školních úkolů.
 
 ## Projekty
 
+- **Abaku_solver** - Řešič počtářské hry Abaku - hledá všechny podpříklady v čísle a počítá skóre (Python)
 - **Battle_simulator** - RPG simulátor souboje dvou armád s různými typy postav (Wizard, Warrior, Archer)
 - **Beast_in_Labyrinth** - Simulace pohybu zvířete v bludišti pomocí pravidla pravé ruky
 - **Minimax** - Hra Nim s implementací minimax algoritmu a alfa-beta prořezáváním
@@ -14,4 +15,4 @@ Sbírka C# projektů (.NET 8.0) ze školních úkolů.
 
 ## Technologie
 
-C# | .NET 8.0
+C# | .NET 8.0 | Python 3
