@@ -1,0 +1,30 @@
+10
+1 4
+1 5
+1 6
+2 4
+3 4
+4 4
+5 4
+6 4
+7 4
+0 6
+6 2
+3 6
+
+
+// to je muj test nambr tri :D
+
+// vypada nejak takhle:
+//(v = volno, k = kral, c = cil, p = prekazka)
+
+//  v v v v v v P v
+//  v v v v P P P v
+//  v v v v P v v v
+//  v v v v P v C v
+//  v v v v P v v v
+//  v v v v P v v v
+//  v v K v P v v v
+//  v v v v P v v v
+
+// ocekava se 'Do cile se kralem nejde dostat.'
